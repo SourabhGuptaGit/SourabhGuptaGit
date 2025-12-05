@@ -1,99 +1,252 @@
-# 👋 Hi, I'm Sourabh Gupta  
-### Python Developer | AI Engineer | Agentic Systems | Backend & Automation | AWS & DevOps  
+<h1 align="center">👋 Hi, I'm <span style="color:#4B9CD3">Sourabh Gupta</span></h1>
+<h3 align="center">Senior Python Developer | AI Engineer | Agentic Systems Architect | Backend & DevOps | Cloud Practitioner</h3>
 
-I design and build intelligent automation systems using Python, LLMs, LangChain, LangGraph, RAG pipelines, and scalable backend architectures.  
-My work spans multi-agent reasoning, NL2SQL systems, cloud-native microservices, and large-scale data ingestion pipelines.
-
-I specialize in **converting complex domain workflows into fully automated, AI-driven systems** deployed through high-reliability cloud and DevOps pipelines.
-
----
-
-## 🔥 What I Do
-
-- **Agentic AI Systems:** Multi-agent orchestration, tool-calling, structured reasoning, workflow graphs  
-- **Backend Engineering:** FastAPI, Django, Flask, microservices, REST APIs, async architecture  
-- **RAG & Vector Search:** FAISS, ChromaDB, embeddings, hybrid search, metadata pipelines  
-- **Data Engineering:** DuckDB, Parquet pipelines, ETL, ingestion frameworks, schema indexing  
-- **DevOps & Cloud:** Docker, Jenkins, AWS (EC2, Lambda, S3, ECS, IAM), CI/CD automation  
-- **Automation:** API integration, SDK-driven workflows, CLI-to-API conversion, network automation  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+  <!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230"/> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me
 
-### 🌐 MAAG: Multi-Agent Analytics Gateway  
-**Tech:** FastAPI, LangChain, Multi-Agent, DuckDB, Parquet, FAISS, Embeddings, Docker  
-- Built a **multi-agent NL2SQL engine** that translates natural language to validated SQL  
-- Designed a **Lakehouse architecture** using DuckDB + Parquet with >100GB scale  
-- Implemented **FAISS search** with schema + table embedding for instant metadata lookup  
-- Deployed **multi-LLM execution** (OpenAI, Gemini, Ollama) with safety filters and query guardrails  
-- Delivered **p95 latency ~250ms** for analytics queries through optimized FastAPI pipelines  
-**Repo:** *(Add your GitHub repo link here)*
+I am a **Python Developer & AI Automation Engineer** with hands-on experience building **agentic workflows**, **multi-agent NL2SQL systems**, **AI-assisted DevOps**, and **end-to-end backend architectures** deployed in enterprise environments.
 
----
+My specialization is in **LLM-driven automation systems**, where I combine:
+- Multi-agent reasoning  
+- RAG pipelines  
+- Vector search (FAISS, Chroma)  
+- High-performance FastAPI microservices  
+- DuckDB + Parquet Lakehouses  
+- AWS cloud infrastructure  
+- DevOps automation (CI/CD, Docker, Jenkins)
 
-### ⚙️ Agentic Network Automation Platform  
-**Tech:** FastAPI, LangChain, LangGraph, Ollama, PostgreSQL, Redis, Docker, Jenkins, AWS  
-- Transformed multi-vendor CLI operations into **API-driven automation modules**  
-- Implemented **agentic interpreters** for config deltas, routing insights, compliance summaries  
-- Ingested live SDK outputs + logs into PostgreSQL + Redis  
-- Deployed **on-prem LLM inference** using Ollama for confidential device data  
-**Repo:** *(Add your GitHub repo link here)*
+I have operational experience delivering **production-grade enterprise AI solutions** for global clients across USA, Singapore & India.
 
 ---
 
-### 📊 Engineering Analytics & Dev Productivity System  
-**Tech:** Django, MySQL, SQLAlchemy, RAG, Google GenAI SDK, Docker  
-- Aggregated Jira, Bitbucket, Jenkins data into a **real-time engineering insights dashboard**  
-- Created a **RAG layer** for PR analysis, CI/CD failure interpretation & sprint intelligence  
-- Automated email delivery with AI summaries  
-**Repo:** *(Add your GitHub repo link here)*
+## 🚀 Technical Expertise Summary
+
+**Core Skills**
+- Python (FastAPI, Django, Flask)
+- Data Engineering (DuckDB, Parquet, ETL)
+- Agentic AI (LangChain, LangGraph, Multi-Agent)
+- RAG Systems (Embeddings, FAISS, Chroma, Hybrid Search)
+- LLM Orchestration (OpenAI, Gemini, Ollama)
+- Backend Microservices (REST APIs, Async, SQLModel)
+- DevOps (Docker, Jenkins, CI/CD Pipelines, GitHub Actions)
+- Cloud (AWS EC2, Lambda, S3, VPC, ECS, IAM)
+- Databases (MySQL, PostgreSQL, MongoDB, Redis, DynamoDB)
+- Automation (SDK-driven scripts, network automation, workflow engines)
+
+**Strength Areas**
+- End-to-end system architecture  
+- Multi-layer enterprise automation  
+- High scalability backend design  
+- Secure & confidential LLM deployment  
+- Observability + structured logging  
+- Performance optimization  
 
 ---
 
-### 📁 API + Data Automation Pipelines  
-**Tech:** Python, Pandas, FastAPI, Excel/CSV automation, SMTP, Jenkins  
-- Developed pipelines to ingest, clean, transform & deliver reports  
-- Automated Excel generation + email delivery  
-- Reduced manual workload by 70–80%  
-**Repo:** *(Add your GitHub repo link here)*
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,aws,docker,jenkins,redis,mongodb,postgres,mysql,linux,git,github,sqlite"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,bash,nginx" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF200?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Featured GitHub Projects
 
-**Languages:** Python, SQL, Bash  
-**Backend:** FastAPI, Django, Flask, SQLModel, Pydantic  
-**AI/LLMs:** LangChain, LangGraph, RAG, embeddings, Llama, Ollama, OpenAI, Gemini  
-**Data Systems:** DuckDB, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, Parquet  
-**Vector Search:** FAISS, ChromaDB  
-**Cloud:** AWS (EC2, Lambda, S3, VPC, ECS, IAM)  
-**DevOps:** Docker, Jenkins, GitHub Actions, CI/CD, Linux  
-**Tools:** Git, Postman, PyTest, WireShark  
-**Other:** SDK-driven automation, network automation, ETL pipelines  
+### 🧠 Multi-Agent Analytics Gateway (MAAG)
+**Tech:** FastAPI, LangChain, LangGraph, FAISS, DuckDB, Parquet, OpenAI, Ollama  
+**Repo:** *(Add your GitHub link)*
+
+- Built a **multi-agent NL2SQL system** turning natural language queries into validated SQL  
+- Designed a **Lakehouse architecture** using Parquet + DuckDB capable of scaling beyond **100GB**  
+- Embedded schema & table metadata into **FAISS vectors** for instant lookup  
+- Created a **safety engine** to verify & optimize SQL queries  
+- Delivered API responses with **p95 < 250ms** latency  
+
+**Workflow**
+
+### 🧠 MAAG – Multi-Agent NL2SQL Workflow Diagram (Mermaid)
+
+Below is the end-to-end reasoning flow of the **multi-agent NL2SQL pipeline**, visualized using Mermaid.
+
+```mermaid
+flowchart TD
+
+    A[User Query] --> B[Intent Classifier Agent]
+    B --> C{Query Type?}
+
+    C -->|Analytical Query| D[Schema Retriever Agent]
+    C -->|Operational Query| E[Metadata Lookup Agent]
+
+    D --> F[FAISS Vector Search]
+    F --> G[Top-K Schema Chunks]
+
+    E --> H[Operational Metadata]
+
+    G --> I[NL2SQL Generator Agent]
+    H --> I
+
+    I --> J[SQL Validator Agent]
+    J --> K{Valid SQL?}
+
+    K -->|No| L[Correction Agent]
+    L --> I
+
+    K -->|Yes| M[DuckDB Executor]
+
+    M --> N[Summarizer Agent]
+    N --> O[Final Analytics Response]
+
+    O --> P[FastAPI API Layer Response]
+```
+
 
 ---
 
-## 📈 GitHub Stats
+### ⚙️ Network Automation & Agentic Reasoning Platform
+**Tech:** FastAPI, LangChain, LangGraph, Redis, PostgreSQL, Docker, Jenkins, Ollama  
+**Repo:** *(Add your GitHub link)*
 
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SourabhGuptaGit&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SourabhGuptaGit&layout=compact&theme=dark)
-
----
-
-## 🧩 What I'm Focusing on Now
-
-- Building advanced **multi-agent systems** using LangGraph  
-- Optimizing **real-time RAG** with hybrid search + metadata pipelines  
-- Scaling **FastAPI microservices** to high throughput  
-- Designing **LLM-powered operations intelligence**  
-- Deepening **AWS + distributed systems** expertise  
+- Converted multi-vendor network CLI workflows into a **secure backend API platform**  
+- Implemented **agentic LLM-based reasoning** to:  
+  - Extract routing insights  
+  - Detect config deltas  
+  - Generate compliance summaries  
+- Ingested live device metadata + logs into Redis & PostgreSQL  
+- Used **on-prem LLM inference via Ollama** for confidential data  
+- Deployed fully on AWS with containerized microservices  
 
 ---
 
-## 📬 Connect with Me
+### 📊 Engineering Analytics & Developer Productivity Suite
+**Tech:** Django, MySQL, SQLAlchemy, LangChain, RAG, Docker  
+**Repo:** *(Add your GitHub link)*
 
-- **LinkedIn:** https://www.linkedin.com/in/sourabh-gupta-239949210  
-- **GitHub:** https://github.com/SourabhGuptaGit  
-- **Email:** sourabhgupta.dev@gmail.com  
+- Aggregated Jira, Bitbucket & Jenkins events  
+- Built dashboards for real-time developer insights  
+- Implemented RAG for PR summarization & CI/CD failure detection  
+- Added automated daily email updates with AI-generated summaries  
+- Containerized the system with Docker  
 
+---
+
+### 🛠 Python API + Data Automation Toolkit
+**Tech:** Python, Pandas, SMTP, FastAPI, Redis, Jenkins  
+**Repo:** *(Add your GitHub link)*
+
+- Automated Excel & CSV generation pipelines  
+- Integrated multiple REST APIs for enterprise reporting  
+- Added email automation with templated summaries  
+- Replaced up to **70–80%** of manual operational processes  
+
+---
+
+## 🏢 End-to-End Enterprise Projects Delivered
+
+### 🇸🇬 Prudential (Singapore) — Agentic Network Automation Platform  
+- Multi-agent LLM abstraction over complex network operations  
+- Config interpretation, routing insights & compliance analysis  
+- Secure on-prem LLM execution using **Ollama**  
+- Metadata ingestion from SDKs & multi-vendor devices  
+
+---
+
+### 🇺🇸 General Motors (USA) — Engineering Analytics & Dev Productivity  
+- CI/CD failures summarization using LLMs  
+- PR-level insights & engineering metrics  
+- Automated dashboards using Django  
+- Daily email alerts with AI summaries  
+
+---
+
+### 🇺🇸 WhyGrene – MAAG: Multi-Agent Analytics Gateway  
+- Fully automated analytics system  
+- NL → SQL agentic reasoning  
+- FAISS + DuckDB lakehouse  
+- Multi-LLM execution pipeline  
+
+---
+
+### 🇮🇳 People Tech – Automation Systems  
+- SCA violation analysis  
+- CI diagnostics automation  
+- Daily test execution & AI-based classification  
+
+---
+
+### 🇮🇳 PureSoftware — Backend AI & DevOps  
+- FastAPI microservices with structured logging  
+- Jenkins CI/CD pipelines  
+- Secure LLM integration  
+- Network intelligence platform  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SourabhGuptaGit&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourabhGuptaGit&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Weekly Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SourabhGuptaGit&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔮 What I'm Learning Now
+
+- Multi-agent orchestration patterns  
+- Advanced RAG (hybrid search, hierarchical routing)  
+- High-throughput FastAPI microservices  
+- AWS Lambda-based automation workflows  
+- Distributed system design  
+
+---
+
+## 📨 Connect With Me
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourabh-gupta-239949210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sourabhgupta.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/SourabhGuptaGit"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## ⭐ Final Notes
+This README represents my journey building **AI-powered automation**, **multi-agent systems**, and **enterprise-grade backend platforms**.  
+I continuously improve my craft by designing systems that are:
+- ✔ Reliable
+- ✔ Scalable
+- ✔ Multi-agent aware
+- ✔ Cloud native
+- ✔ Secure
+- ✔ Observable
+- ✔ Built with clean engineering discipline
+
+
+If you want to discuss systems, automation, agentic workflows, or backend engineering — feel free to reach out!
