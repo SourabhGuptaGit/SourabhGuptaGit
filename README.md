@@ -59,7 +59,7 @@ I have operational experience delivering **production-grade enterprise AI soluti
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,aws,docker,jenkins,redis,mongodb,postgres,mysql,linux,git,github,sqlite"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=cloudflare,bash,nginx" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,bash,nginx,terraform,kubernetes,ansible,powershell" />
 </p>
 
 <p align="center">
@@ -69,6 +69,14 @@ I have operational experience delivering **production-grade enterprise AI soluti
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DuckDB-FFF200?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
