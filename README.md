@@ -78,7 +78,7 @@ I have operational experience delivering **production-grade enterprise AI soluti
 
 ### 🧠 Multi-Agent Analytics Gateway (MAAG)
 **Tech:** FastAPI, LangChain, LangGraph, FAISS, DuckDB, Parquet, OpenAI, Ollama  
-**Repo:** *(Add your GitHub link)*
+**Repo:** *[(Github/SourabhGupta/MAAG)](https://github.com/SourabhGuptaGit/Multi-Agent-Analytics-Gateway)*
 
 - Built a **multi-agent NL2SQL system** turning natural language queries into validated SQL  
 - Designed a **Lakehouse architecture** using Parquet + DuckDB capable of scaling beyond **100GB**  
@@ -88,7 +88,7 @@ I have operational experience delivering **production-grade enterprise AI soluti
 
 **Workflow**
 
-### 🧠 MAAG – Multi-Agent NL2SQL Workflow Diagram (Mermaid)
+### 🧠 MAAG – Multi-Agent NL2SQL Workflow Diagram
 
 Below is the end-to-end reasoning flow of the **multi-agent NL2SQL pipeline**, visualized using Mermaid.
 
@@ -128,7 +128,9 @@ flowchart TD
 
 ### ⚙️ Network Automation & Agentic Reasoning Platform
 **Tech:** FastAPI, LangChain, LangGraph, Redis, PostgreSQL, Docker, Jenkins, Ollama  
-**Repo:** *(Add your GitHub link)*
+<p>
+<b>Repo:</b> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gxOTJtMHh2ZGF2MWExejE4N2VyNmt0OHZ4NThzeWp3eDgzNmE2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhbsgAvBkZqkKx2ys7/giphy.gif" width="100" height="30">
+</p>
 
 - Converted multi-vendor network CLI workflows into a **secure backend API platform**  
 - Implemented **agentic LLM-based reasoning** to:  
@@ -143,7 +145,9 @@ flowchart TD
 
 ### 📊 Engineering Analytics & Developer Productivity Suite
 **Tech:** Django, MySQL, SQLAlchemy, LangChain, RAG, Docker  
-**Repo:** *(Add your GitHub link)*
+<p>
+<b>Repo:</b> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gxOTJtMHh2ZGF2MWExejE4N2VyNmt0OHZ4NThzeWp3eDgzNmE2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhbsgAvBkZqkKx2ys7/giphy.gif" width="100" height="30">
+</p>
 
 - Aggregated Jira, Bitbucket & Jenkins events  
 - Built dashboards for real-time developer insights  
@@ -154,9 +158,10 @@ flowchart TD
 ---
 
 ### 🛠 Python API + Data Automation Toolkit
-**Tech:** Python, Pandas, SMTP, FastAPI, Redis, Jenkins  
-**Repo:** *(Add your GitHub link)*
-
+**Tech:** Python, Pandas, SMTP, FastAPI, Redis, Jenkins
+<p>
+<b>Repo:</b> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3gxOTJtMHh2ZGF2MWExejE4N2VyNmt0OHZ4NThzeWp3eDgzNmE2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhbsgAvBkZqkKx2ys7/giphy.gif" width="100" height="30">
+</p>
 - Automated Excel & CSV generation pipelines  
 - Integrated multiple REST APIs for enterprise reporting  
 - Added email automation with templated summaries  
@@ -202,15 +207,6 @@ flowchart TD
 - Jenkins CI/CD pipelines  
 - Secure LLM integration  
 - Network intelligence platform  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SourabhGuptaGit&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourabhGuptaGit&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
